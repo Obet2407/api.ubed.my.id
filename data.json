@@ -1,0 +1,71 @@
+{
+    "profile": {
+        "name": "Ubed Api",
+        "bio": "Welcome to Ubed Bot Api!",
+        "image": "https://files.catbox.moe/y8rn53.jpg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/24.obet",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/-",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/badut",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Ubd Bot Api",
+            "url": "https://api.ubed.my.id",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/Ubed2407",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Pinterest",
+            "url": "https://pinterest.com/obet",
+            "icon": "fab fa-pinterest"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/ubed24077",
+            "icon": "fab fa-github"
+        },
+        {
+            "title": "LinkedIn",
+            "url": "https://linkedin.com/in/-",
+            "icon": "fab fa-linkedin"
+        }
+    ],
+    "music": {
+        "title": "Souqy Jelas sakit",
+        "artist": "Souqy",
+        "albumArt": "Album 2017",
+        "audioFile": "https://files.catbox.moe/hkkujn.mpeg", 
+        "duration": 180,
+        "timeSync": [
+            { "time": 0, "text": "Intro music..." },
+            { "time": 5, "text": "First verse line 1\nBaris terjemahan" },
+            { "time": 10, "text": "First verse line 2\nBaris terjemahan" },
+            { "time": 15, "text": "First verse line 3\nBaris terjemahan" },
+            { "time": 20, "text": "First verse line 4\nBaris terjemahan" },
+            { "time": 25, "text": "Pre-chorus line 1\nBaris terjemahan" },
+            { "time": 30, "text": "Pre-chorus line 2\nBaris terjemahan" },
+            { "time": 35, "text": "Chorus line 1\nBaris terjemahan" },
+            { "time": 40, "text": "Chorus line 2\nBaris terjemahan" },
+            { "time": 45, "text": "Chorus line 3\nBaris terjemahan" },
+            { "time": 50, "text": "Chorus line 4\nBaris terjemahan" },
+            { "time": 55, "text": "Post-chorus\nBaris terjemahan" },
+            { "time": 60, "text": "Second verse line 1\nBaris terjemahan" }
+        ]
+    }
+}
